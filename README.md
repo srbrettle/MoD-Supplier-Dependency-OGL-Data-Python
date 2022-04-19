@@ -1,5 +1,5 @@
 # MoD-Supplier-Dependency
-Dependency of Top 10 Suppliers on MOD Business. Restructuring of data in order to plot the dependency as a percend of the supplier's Gross Revenue.
+Dependency of Top 10 Suppliers on MOD Business. Restructuring of data in order to plot the dependency as a percent of the supplier's Gross Revenue.
 
 Direct Data Source:
 https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/642042/Excel_tables_relating_to_finance_and_economics_annual_statistical_bulletin_trade_industry_and_contracts_2017.xls
